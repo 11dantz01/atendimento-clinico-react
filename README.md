@@ -1,6 +1,6 @@
 #  CRUD - Gestão Clínica Simples
 
-Este é um sistema simples de gestão clínica, desenvolvido com **React** e **TailwindCSS**, que permite o cadastro e gerenciamento de **pacientes**, **médicos** e **consultas**. O objetivo é praticar conceitos de CRUD (Create, Read, Update, Delete) com uma interface agradável e funcional.
+Este é um sistema simples de gestão clínica, desenvolvido com React e TailwindCSS, que permite o cadastro e gerenciamento de pacientes, médicos e consultas. O objetivo é praticar conceitos de CRUD (Create, Read, Update, Delete) com uma interface agradável e funcional.
 
 ---
 
