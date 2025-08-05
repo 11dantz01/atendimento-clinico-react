@@ -30,7 +30,7 @@ Este é um sistema simples de gestão clínica, desenvolvido com React e Tailwin
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/CRUD-gestao-clinica-simples.git
+git clone https://github.com/11dantz01/atendimento-clinico-react.git
 ```
 
 2. Acesse a pasta do projeto:
@@ -56,15 +56,11 @@ O projeto será iniciado em `http://localhost:5173` (ou similar, dependendo do V
 
 Aqui está um preview do projeto:
 
- <img width="1600" height="814" alt="image" src="https://github.com/user-attachments/assets/00578b48-e79e-4e0b-9262-cdc70da1f10d" />
- <img width="1862" height="953" alt="image" src="https://github.com/user-attachments/assets/faa40e61-9815-4888-9a5a-660ee0e48008" />
- <img width="1862" height="957" alt="image" src="https://github.com/user-attachments/assets/6f585cc7-6bda-4c2c-b60b-66d982f150f7" />
- <img width="1863" height="952" alt="image" src="https://github.com/user-attachments/assets/3d9bd7e6-2b6d-4799-af2a-cf90ea6ea308" />
- <img width="1600" height="818" alt="image" src="https://github.com/user-attachments/assets/ba632b46-339b-403e-8e8e-b255b42aa491" />
- <img width="1864" height="953" alt="image" src="https://github.com/user-attachments/assets/dcee7ffa-e411-43b8-814a-0ef09630069f" />
- <img width="1864" height="958" alt="image" src="https://github.com/user-attachments/assets/a038972a-bafe-4804-8114-780ab4504ad2" />
- <img width="1862" height="956" alt="image" src="https://github.com/user-attachments/assets/04a916ed-b59b-499b-a056-3717e8c666a9" />
- <img width="1864" height="956" alt="image" src="https://github.com/user-attachments/assets/1b70a967-e199-408f-8c55-e609758b8751" />
+<img width="1877" height="953" alt="image" src="https://github.com/user-attachments/assets/222e4d47-c771-4d15-bc67-8ab1156f549b" />
+<img width="1862" height="954" alt="image" src="https://github.com/user-attachments/assets/d7f10f71-179b-4cfd-90d6-c85c05e69822" />
+<img width="1862" height="954" alt="image" src="https://github.com/user-attachments/assets/eeaf6218-c28a-489c-8488-02b71e05ca8c" />
+<img width="1862" height="954" alt="image" src="https://github.com/user-attachments/assets/39816e96-ad9d-43c1-9c0f-040be407fbbc" />
+<img width="1865" height="956" alt="image" src="https://github.com/user-attachments/assets/9b430fcc-1936-4c52-89db-337b42d4672c" />
 
 
 
